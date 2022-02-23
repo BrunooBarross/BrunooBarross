@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Bruno Barros👋
 
 
-- 🔭 Desvendando o back-end ...
-- 🌱 Estudando Java ...
+- 🔭 Desvendando o front-end ...
+- 🌱 Estudando React ...
+- 🎓 Bacharel em Sistemas de Informação (Sim, eu venci o TCC rs)
 - 📫 Contate-me no email: barrosbrunofelipe@gmail.com 
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Vaca não da leite ...
@@ -16,12 +17,13 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-BT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">  
+  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Bruno-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-   <img align="center" alt="Bruno-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Bruno-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Bruno-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
+   <img align="right" alt="Gif-Programador" width="" src="https://c.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
+    
+   
 </div>
 
   ##
