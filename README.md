@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/BrunooBarross">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunooBarross&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunooBarross&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunooBarross&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunooBarross&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   <div align="center" >
     <img  alt="Gif-Programador" width="400" src="https://c.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
