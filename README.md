@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Bruno Barros👋
 
-- 💻 Desenvolvedor Web Full Stack React - Node - Java
-- 👨🏻‍💻 Estudando Java
+- 💻 Desenvolvedor Web Full Stack React - Java - Node
+- 👨🏻‍💻 Javeiro
 - 🌱 Em constante evolução ...
 - 🎓 Bacharel em Sistemas de Informação (Sim, eu venci o TCC rs)
 - 📫 Contate-me no email: barrosbrunofelipe@gmail.com 
